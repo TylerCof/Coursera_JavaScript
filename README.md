@@ -1,0 +1,1 @@
+This repository is for the Coursera course "IBM Back-end JavaScript Developer Professional Certificate". As I am currently taking this course this repository is a work in progress and is solely meant for learning purposes.
